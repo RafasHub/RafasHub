@@ -13,6 +13,10 @@ Como programador, minhas habilidades e competências são:
 Aproeite sua visita no meu GitHub, e caso se interesse por algo relacionado a mim, por favor entre em contato!
 
 Instagram: rafa.tn22
+
 Facebook: Rafael Navarro
+
 Whatsapp: entre  em contato pelo instagram, passo o número por lá
+
 Linkedin: Rafael de Toledo Navarro
+
