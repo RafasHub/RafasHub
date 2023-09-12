@@ -1,6 +1,6 @@
 Olá, eu sou o Rafael de Toledo Navarro e este é o meu GitHub.
 
-Meus interesses em programação estão sempre crescendo, sou freelancer para adquirir ainda mais habilidades!
+Meus interesses em programação estão sempre crescendo, sou estagiário na Olympe Energia para adquirir ainda mais habilidades!
 
 Como programador, minhas habilidades e competências são:
 -HTML
@@ -8,6 +8,7 @@ Como programador, minhas habilidades e competências são:
 -JavaScript
 -C
 -Python
+-Power BI
 -React.js
 
 Aproeite sua visita no meu GitHub, e caso se interesse por algo relacionado a mim, por favor entre em contato!
