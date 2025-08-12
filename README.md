@@ -6,4 +6,4 @@ My main habilities are Python, Power BI, API, ML models development, Web Scrapin
 
 Sou Rafael, Cientista da Computação.
 Atualmente trabalhando como analista de dados em controle financeiro.
-Minhas habilidades principais são Python, Power BI, API, desenvolvimento de modelos de ML, Web scraping, etc...
+Minhas habilidades principais são Python, Power BI, API, desenvolvimento de modelos de ML, Web scraping, etc.
